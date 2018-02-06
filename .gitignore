@@ -12,6 +12,7 @@ env/
 build/
 develop-eggs/
 dist/
+data/
 downloads/
 eggs/
 .eggs/
@@ -96,6 +97,9 @@ ENV/
 
 # mkdocs documentation
 /site
+
+# data files
+*.csv
 
 # mypy
 .mypy_cache/
